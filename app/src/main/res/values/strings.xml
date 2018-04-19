@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="unC">Unit Converter</string>
+    <string name="enterTemp">Enter Temperature</string>
+    <string name="about">About us</string>
+    <string name="cTF">Celsius To Farenheit</string>
+    <string name="fTC">Farenheit to Celsius</string>
+    <string name="convert">Convert</string>
+</resources>
